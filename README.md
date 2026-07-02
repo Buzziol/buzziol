@@ -51,7 +51,7 @@ Atualmente, estou direcionando minha carreira para áreas como **Data Analytics,
 
   <!-- Power BI -->
 
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="42" alt="Power BI" title="Power BI"/>
+  <img src="https://img.icons8.com/color/48/power-bi.png" width="42" alt="Power BI" title="Power BI"/>
 
   <!-- Docker -->
 
