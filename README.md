@@ -25,10 +25,6 @@ Atualmente, estou direcionando minha carreira para áreas como **Data Analytics,
   <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" alt="Python" title="Python"/>
 
-  <!-- PHP -->
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="42" alt="PHP" title="PHP"/>
-
   <!-- JavaScript -->
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" alt="JavaScript" title="JavaScript"/>
