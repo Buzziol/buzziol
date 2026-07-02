@@ -183,18 +183,6 @@ Python, Pandas, Matplotlib, LLMs, Groq API
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="left">
-
-![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI\&layout=compact\&theme=tokyonight\&hide_border=true)
-
-</div>
-
----
-
 ## 📈 O que busco desenvolver
 
 Atualmente, busco evoluir principalmente em:
@@ -211,9 +199,9 @@ Atualmente, busco evoluir principalmente em:
 
 ## 📫 Contato
 
-* LinkedIn: [adicione seu LinkedIn aqui](https://www.linkedin.com/)
-* Email: [adicione.seu.email@email.com](mailto:adicione.seu.email@email.com)
-* GitHub: [adicione seu usuário aqui](https://github.com/SEU_USUARIO_AQUI)
+* LinkedIn: [Clique aqui]([https://www.linkedin.com/](https://www.linkedin.com/in/felipe-viotto-buzziol-740739214/))
+* Email: [Clique aqui](mailto:febuzziol@yahoo.com.br)
+* GitHub: [Clique aqui](https://github.com/Buzziol)
 
 ---
 
