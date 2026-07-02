@@ -1,25 +1,25 @@
-# Olá, eu sou o Felipe Buzziol 👋
+# Hi, I'm Felipe Buzziol 👋
 
-Sou estudante de **Sistemas de Informação** na PUC-Campinas, com interesse em **desenvolvimento de software, dados e inteligência artificial aplicada**.
+I'm an **Information Systems** student at PUC-Campinas, with an interest in **software development, data, and applied artificial intelligence**.
 
-Tenho experiência com projetos envolvendo **Python, SQL, Power BI, automações, APIs, dashboards, aplicações web e soluções com IA**, buscando sempre criar sistemas que resolvam problemas reais de forma prática, organizada e escalável.
+I have experience with projects involving **Python, SQL, Power BI, automation, APIs, dashboards, web applications, and AI-based solutions**, always aiming to build systems that solve real-world problems in a practical, organized, and scalable way.
 
-Atualmente, estou direcionando minha carreira para áreas como **Data Analytics, Data Science, Data Engineering, Backend Development e IA aplicada a produtos digitais**.
-
----
-
-## 🚀 Sobre mim
-
-* 🎓 Estudante de Sistemas de Informação na PUC-Campinas
-* 💻 Interesse em desenvolvimento, dados e inteligência artificial
-* 📊 Experiência com análise de dados, dashboards e automações
-* 🧠 Desenvolvimento de projetos com IA, RAG, embeddings e APIs
-* 🛠️ Construção de aplicações web completas, envolvendo frontend, backend e banco de dados
-* 📌 Foco em criar projetos com utilidade real e boa apresentação técnica
+I'm currently focusing my career on areas such as **Data Analytics, Data Science, Data Engineering, Backend Development, and AI applied to digital products**.
 
 ---
 
-## 🧰 Tecnologias e Ferramentas
+## 🚀 About Me
+
+* 🎓 Information Systems student at PUC-Campinas
+* 💻 Interested in software development, data, and artificial intelligence
+* 📊 Experience with data analysis, dashboards, and automation
+* 🧠 Development of projects involving AI, RAG, embeddings, and APIs
+* 🛠️ Building complete web applications involving frontend, backend, and databases
+* 📌 Focused on creating useful projects with real-world value and strong technical presentation
+
+---
+
+## 🧰 Technologies and Tools
 
 <p>
   <!-- Python -->
@@ -76,7 +76,7 @@ Atualmente, estou direcionando minha carreira para áreas como **Data Analytics,
 
 ---
 
-## 📌 Áreas de Interesse
+## 📌 Areas of Interest
 
 * Data Analytics
 * Data Science
@@ -84,124 +84,124 @@ Atualmente, estou direcionando minha carreira para áreas como **Data Analytics,
 * Backend Development
 * Full Stack Development
 * Business Intelligence
-* Inteligência Artificial aplicada
-* Automação de processos
-* Desenvolvimento de produtos digitais
+* Applied Artificial Intelligence
+* Process Automation
+* Digital Product Development
 
 ---
 
-## 🧠 Principais Projetos
+## 🧠 Main Projects
 
 ### 🎧 SpotStats
 
-Aplicação web para análise de histórico musical do Spotify, com foco em visualização de dados, rankings, comparações e compartilhamento de estatísticas.
+A web application for analyzing Spotify listening history, focused on data visualization, rankings, comparisons, and shareable statistics.
 
-**Principais recursos:**
+**Main features:**
 
-* Rankings de artistas, álbuns e músicas
-* Comparações entre anos, períodos, artistas, álbuns e faixas
-* Stories compartilháveis com dados personalizados
-* Enriquecimento de imagens via API do Spotify
-* Controle de plano Free e Plus
-* Backend com FastAPI e banco de dados relacional
-* Frontend em React com foco em experiência visual
+* Rankings of artists, albums, and tracks
+* Comparisons between years, periods, artists, albums, and tracks
+* Shareable stories with personalized data
+* Image enrichment through the Spotify API
+* Free and Plus plan control
+* Backend built with FastAPI and a relational database
+* Frontend built with React, focused on visual experience
 
-**Tecnologias utilizadas:**
+**Technologies used:**
 Python, FastAPI, PostgreSQL, React, TypeScript, Docker, Spotify API
 
 ---
 
 ### 🩺 AegisDerm
 
-Sistema voltado para clínicas dermatológicas, com funcionalidades de gestão de pacientes, consultas, prontuários médicos e apoio de inteligência artificial para análise dermatológica.
+A system designed for dermatology clinics, with features for managing patients, appointments, medical records, and AI-assisted dermatological analysis.
 
-**Principais recursos:**
+**Main features:**
 
-* Gestão de clínicas, usuários, pacientes e consultas
-* Perfis de acesso como administrador, médico e recepcionista
-* Prontuário médico eletrônico
-* Controle de documentos médicos
-* Análise dermatológica com apoio de IA
-* Backend estruturado com Flask
-* Frontend em Vue.js
+* Management of clinics, users, patients, and appointments
+* Access profiles such as administrator, doctor, and receptionist
+* Electronic medical records
+* Medical document management
+* Dermatological analysis supported by AI
+* Backend structured with Flask
+* Frontend built with Vue.js
 
-**Tecnologias utilizadas:**
+**Technologies used:**
 Python, Flask, SQLAlchemy, SQLite, Vue.js, JavaScript, Keras/TensorFlow
 
 ---
 
 ### 📦 Logistics Control Tower
 
-Projeto de análise logística baseado em dados operacionais, com foco em indicadores de receita, lucro, atrasos, modos de envio e performance de entregas.
+A logistics data analysis project based on operational data, focused on revenue, profit, delays, shipping modes, and delivery performance indicators.
 
-**Principais recursos:**
+**Main features:**
 
-* Análise de receita e lucro por período
-* Avaliação de dias reais versus dias programados de envio
-* Indicadores de performance logística
-* Visualizações voltadas para tomada de decisão
-* Exploração de dados com Python e dashboards
+* Revenue and profit analysis by period
+* Evaluation of actual shipping days versus scheduled shipping days
+* Logistics performance indicators
+* Visualizations focused on decision-making
+* Data exploration with Python and dashboards
 
-**Tecnologias utilizadas:**
-Python, Pandas, SQL, Power BI, análise de dados
+**Technologies used:**
+Python, Pandas, SQL, Power BI, Data Analysis
 
 ---
 
 ### 📄 DocMind
 
-Copiloto documental com foco em análise inteligente de documentos, busca semântica, embeddings e geração de respostas com base em fontes.
+A document copilot focused on intelligent document analysis, semantic search, embeddings, and source-based answer generation.
 
-**Principais recursos:**
+**Main features:**
 
-* Upload e processamento de documentos PDF
-* Busca semântica com embeddings
-* Arquitetura RAG
-* Chat com respostas baseadas em documentos
-* Histórico de conversas
-* Análise de riscos, resumo e extração de informações
-* Backend moderno com FastAPI
+* PDF document upload and processing
+* Semantic search with embeddings
+* RAG architecture
+* Chat with document-based answers
+* Conversation history
+* Risk analysis, summarization, and information extraction
+* Modern backend built with FastAPI
 
-**Tecnologias utilizadas:**
+**Technologies used:**
 Python, FastAPI, PostgreSQL, pgvector, Ollama, React, TypeScript, RAG
 
 ---
 
 ### 🤖 Agent Benchmark — Robustness & Cost
 
-Projeto acadêmico voltado para avaliação de agentes de IA, considerando robustez, custo e desempenho em tarefas com uso de ferramentas.
+An academic project focused on evaluating AI agents by considering robustness, cost, and performance in tool-using tasks.
 
-**Principais recursos:**
+**Main features:**
 
-* Execução de benchmarks com agentes baseados em LLMs
-* Avaliação de custo por execução
-* Testes envolvendo ferramentas como busca, cálculo e execução de código
-* Geração de resultados em CSV
-* Visualização dos resultados em gráficos
+* Benchmark execution with LLM-based agents
+* Cost evaluation per execution
+* Tests involving tools such as search, calculation, and code execution
+* CSV result generation
+* Result visualization through charts
 
-**Tecnologias utilizadas:**
+**Technologies used:**
 Python, Pandas, Matplotlib, LLMs, Groq API
 
 ---
 
-## 📈 O que busco desenvolver
+## 📈 What I'm Currently Developing
 
-Atualmente, busco evoluir principalmente em:
+I'm currently focused on improving my skills in:
 
-* Construção de APIs bem estruturadas
-* Modelagem e análise de dados
-* Dashboards e visualização de indicadores
-* Integração entre sistemas
-* Produtos digitais com dados e IA
-* Arquiteturas com backend, banco de dados e frontend
-* Projetos que combinem tecnologia, experiência do usuário e impacto prático
-
----
-
-## 📫 Contato
-
-* LinkedIn: [Clique aqui](https://www.linkedin.com/in/felipe-viotto-buzziol-740739214/)
-* Email: febuzziol@yahoo.com.br
+* Building well-structured APIs
+* Data modeling and analysis
+* Dashboards and KPI visualization
+* System integration
+* Digital products powered by data and AI
+* Architectures involving backend, databases, and frontend
+* Projects that combine technology, user experience, and practical impact
 
 ---
 
-> “Construindo soluções com dados, software e inteligência artificial aplicada.”
+## 📫 Contact
+
+* LinkedIn: [Click here](https://www.linkedin.com/in/felipe-viotto-buzziol-740739214/)
+* Email: [febuzziol@yahoo.com.br](mailto:febuzziol@yahoo.com.br)
+
+---
+
+> “Building solutions with data, software, and applied artificial intelligence.”
