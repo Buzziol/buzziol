@@ -199,8 +199,7 @@ Atualmente, busco evoluir principalmente em:
 
 ## 📫 Contato
 
-* LinkedIn: [Clique aqui](https://www.linkedin.com/in/felipe-viotto-buzziol-740739214/))
-* GitHub: [Clique aqui](https://github.com/Buzziol)
+* LinkedIn: [Clique aqui](https://www.linkedin.com/in/felipe-viotto-buzziol-740739214/)
 * Email: febuzziol@yahoo.com.br
 
 ---
